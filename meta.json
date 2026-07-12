@@ -1,0 +1,14 @@
+{
+  "guid": "195b800f-1fe1-4eff-9fcd-ad25f9f61c0c",
+  "name": "ES-DE Launcher",
+  "description": "Launch EmulationStation DE directly from Jellyfin.",
+  "overview": "Adds a Retro Gaming card to the home screen that detects and launches ES-DE.",
+  "owner": "Matthieu BACHELIER",
+  "category": "General",
+  "version": "1.0.0.3",
+  "changelog": "Initial release",
+  "targetAbi": "10.11.11.0",
+  "sourceUrl": "https://github.com/MBach/jellyfin-plugin-esde",
+  "imageUrl": "https://raw.githubusercontent.com/MBach/jellyfin-plugin-esde/main/assets/thumb.png",
+  "timestamp": "2026-07-12T19:00:00Z"
+}
